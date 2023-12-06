@@ -23,3 +23,21 @@ int main()
     printf("Element not found");
     return 0;
 }
+
+/*
+Output:
+Enter 10 elements in an array:
+258
+639
+-965
+023
+648
+512
+-698
+21
+25
+369
+Enter targeted element:
+21
+Element found at 7 index
+*/
